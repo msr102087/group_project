@@ -1,0 +1,30 @@
+# 1/30/21 Project Checklist
+
+## project title((less than 5))
+Seattle Chartiable Outreach (open for modification)
+
+## project description
+-Website that connects volunteers with non-profit work and opportunities for support
+    -allows users to search, filter
+    -uses maps (API)
+    -uses local storage
+
+## user story(10 minutes)
+AS A USER I want to find opportunites to suport my community
+I WANT to visit a website or an app 
+SO THAT I can easily connect with community based organizations to support their needs(volunteer time, resources, skills etc.)
+
+## wireframework or sketch of the design (25minutes)
+
+
+
+## APIs to be used
+API's are google maps
+Charity API
+
+
+## rough breakdown of task(20 minutes)
+
+
+### PARKING LOT
+    compare notes to former HW examples
