@@ -15,15 +15,38 @@ I WANT to visit a website or an app
 SO THAT I can easily connect with community based organizations to support their needs(volunteer time, resources, skills etc.)
 
 ## wireframework or sketch of the design (25minutes)
-
+-As per screenshots in Assets
 
 
 ## APIs to be used
-API's are google maps
-Charity API
+Google maps
+Charity list API
 
 
-## rough breakdown of task(20 minutes)
+## rough breakdown of task(15 minutes)
+Patrick- screenshot mock up and add to Assets in Repo
+
+GIVEN I am a ________ community memeber who wants to connect with local CBO's (community based organizations)
+
+WHEN I open the app
+THEN I am presented with popular CBOs and a form
+(patrick will bring images that we can use)
+
+WHEN I scroll down
+THEN 
+
+WHEN I
+THEN 
+
+WHEN I 
+THEN I 
+
+WHEN I 
+THEN 
+
+WHEN I 
+THEN 
+```
 
 
 ### PARKING LOT
